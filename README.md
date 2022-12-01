@@ -1,1 +1,2 @@
 # demo-dao-jdbc
+Java Database Connectivity is an application programming interface for the programming language Java, which defines how a client may access a database. It is a Java-based data access technology used for Java database connectivity.
